@@ -1,0 +1,3 @@
+[submodule "svg_rasterize"]
+	path = svg_rasterize
+	url = https://github.com/bichu136/svgrasterize.py.git
