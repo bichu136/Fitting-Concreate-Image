@@ -1,0 +1,4 @@
+mean =  tensor(0.5038)
+std =  tensor(0.1642)
+velocity of mean =  tensor(-5.4182e-05)
+velocity of std =  tensor(-5.2360e-05)
